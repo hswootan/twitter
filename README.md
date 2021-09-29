@@ -23,6 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitter1.gif' />
-<img src='twitter2.gif' />
+<img src='twitter1.gif' /> <img src='twitter2.gif' />
 
